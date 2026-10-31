@@ -2,7 +2,7 @@
 
 I work in **localization project management** and build software at the intersection of useful products, practical automation, and enjoyable experiments.
 
-My GitHub tracks a journey from **C#/.NET and WPF** through **SwiftUI and AR** to **desktop products, APIs, and automation** with **TypeScript, Rust, Python, and .NET**. I like turning ideas into usable, verifiable applications—one milestone at a time.
+My GitHub tracks a journey from **C#/.NET and WPF** through **Swift/iOS (UIKit, SwiftUI and AR)** to **desktop products, APIs, and automation** with **TypeScript, Rust, Python, and .NET**. I like turning ideas into usable, verifiable applications—one milestone at a time.
 
 ## Selected projects
 
@@ -12,7 +12,7 @@ My GitHub tracks a journey from **C#/.NET and WPF** through **SwiftUI and AR** t
 | [Tarif Atlası](https://github.com/fatihemres/personal-recipe-library) | Local-first recipe and ingredient library, under milestone-based development. | Tauri 2 · React · Rust · SQLite |
 | [SteamAPI](https://github.com/fatihemres/SteamAPI) | Regional Steam store search API, modernized to .NET 10 with automated tests. | C# · ASP.NET Core · .NET 10 |
 | [Efso Radar](https://github.com/fatihemres/efso-radar) | Editorial news discovery and AI-assisted triage for a magazine workflow; live automation requires explicit activation. | Python · RSS · SQLite · Gemini · GitHub Actions |
-| [SwiftUI Components Library](https://github.com/fatihemres/SwiftUI-Components-Library) | A personal reference collection of SwiftUI UI patterns and experiments. | Swift · SwiftUI |
+| [ContactsAppWithJSONPlaceholder](https://github.com/fatihemres/ContactsAppWithJSONPlaceholder) | iOS architecture portfolio showcasing Coordinator navigation, MVVM, a protocol-backed repository, UIKit/SwiftUI interoperability and XCTest examples. | Swift · UIKit · SwiftUI · SnapKit · XCTest |
 | [GameForum](https://github.com/fatihemres/GameForum) | An earlier layered gaming forum project, currently being reviewed for modernization. | C# · ASP.NET Core · MVC · SQL Server |
 
 ## What I'm exploring
@@ -24,7 +24,7 @@ My GitHub tracks a journey from **C#/.NET and WPF** through **SwiftUI and AR** t
 
 ## Other experiments
 
-The rest of this profile includes learning projects in **SwiftUI, ARKit/RealityKit, WPF, .NET and web development**. Some are early experiments or historical snapshots, not maintained production libraries.
+The rest of this profile includes [SwiftUI Components Library](https://github.com/fatihemres/SwiftUI-Components-Library), a reference collection of UI patterns, plus learning projects in **SwiftUI, ARKit/RealityKit, WPF, .NET and web development**. Some are early experiments or historical snapshots, not maintained production libraries.
 
 ## A few principles
 
